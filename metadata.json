@@ -1,0 +1,6 @@
+{
+  "name": "ChurnGuard AI",
+  "description": "Production-level Customer Churn Prediction System with ML-driven risk analysis and AI-powered retention recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["machine_learning", "data_visualization", "ai_recommendations"]
+}
